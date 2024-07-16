@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋🧥
 
 - I'm Tian, a student studying at the University of Ottawa🏫.
 
