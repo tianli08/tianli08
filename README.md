@@ -2,6 +2,6 @@
 
 - I'm Tian, a student studying at the University of Ottawa🏫.
 
-- I'm currently working on some simple games because I'm a big fundamentals guy!
+- I'm currently working on tensorflow!
 
 - New stuff coming out ":)"
