@@ -1,0 +1,21 @@
+import React from 'react';
+
+export const TextBubble = ({ children }) => (
+  <div
+    style={{
+      display: 'inline-block',
+      padding: '20px',
+      border: '2px solid #ccc',
+      borderRadius: '25px',
+      backgroundColor: '#f0f0f0',
+      fontSize: '24px',
+      fontWeight: 'bold',
+      textAlign: 'center',
+      boxShadow: '0 4px 6px rgba(0, 0, 0, 0.1)',
+    }}
+  >
+    {children}
+  </div>
+);
+
+<TextBubble>Hello</TextBubble>
