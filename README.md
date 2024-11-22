@@ -1,1 +1,4 @@
-# H1 Hello, I'm Tian
+# Hello, I'm Tian
+## I'm a third year student at the University of Ottawa!
+
+Currently working on embedded projects!
